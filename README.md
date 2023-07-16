@@ -1,6 +1,6 @@
 # TurnkeyAssessments
 
-Assessments Q1
+# Assessments Q1
 Task:
  -A Java program that generates a Fibonacci sequence.
 
@@ -12,7 +12,9 @@ Solution:
 -Memorization improves recursive algorithm performance by avoiding redundant computations through storing results in an array.
 
 
-Assessments Q2
+
+
+# Assessments Q2
 Task:
  -A function that takes a list of integers as input and returns the largest difference between any two numbers in the list.
 
@@ -22,7 +24,9 @@ Solution:
 -The method rerurns 0 if the list has less than two elements.
 
 
-Assessments Q3
+
+
+# Assessments Q3
 Task:
  -SQL query that selects all employees whose age is above 30 and salary is above $50,000, the table name is 'employees' with
   "id" (integer), "name" (text), "age" (integer), and "salary" (float) as columns.
@@ -34,7 +38,9 @@ Solution:
  appropriate data types for 'age' and 'salary' columns.
 
 
-Assessments Q4
+
+
+# Assessments Q4
 Task:
  -Identify the bug and fix the code so that it correctly calculates and displays the average of a list of numbers.
 
